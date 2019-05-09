@@ -1,0 +1,1 @@
+CodeBerry Project-Components-Footers-Simple footer template
